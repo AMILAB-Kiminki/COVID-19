@@ -1,4 +1,4 @@
 # COVID-19
-COVID-19 Custom Repo
+COVID-19 Custom dataset
 
-aadasd
+깃허브 연동 연습용입니다.
